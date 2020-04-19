@@ -1,0 +1,12 @@
+{
+    "name": "andres/restfull",
+    "authors": [
+        {
+            "name": "Andres Lopez",
+            "email": "andres.lopezma@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
